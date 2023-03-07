@@ -1,0 +1,11 @@
+.bg-container {
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  height: auto;
+  background: #071319;
+  .app-container {
+    width: 1024px;
+    margin: 20px auto;
+  }
+}

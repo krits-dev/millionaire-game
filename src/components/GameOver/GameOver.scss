@@ -1,0 +1,19 @@
+.game-over-wrapper {
+  width: 250px;
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  margin-left: -125px;
+  left: 50%;
+  span {
+    text-transform: uppercase;
+  }
+  .red {
+    color: red;
+  }
+  .green {
+    color: green;
+  }
+}
